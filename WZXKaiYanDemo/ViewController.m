@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import "MyCell.h"
-
+#define cellHeight 250
 @interface ViewController ()<UITableViewDataSource,UITableViewDelegate>
 
 /**
@@ -80,7 +80,7 @@
 
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    return self.view.frame.size.height/3.0;
+    return cellHeight;
 }
 
 
