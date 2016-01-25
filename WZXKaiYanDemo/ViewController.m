@@ -75,8 +75,6 @@
     
     [myCell setImg:_dataArray[indexPath.row]];
     
-    [myCell setNeedsDisplay];
-    
     [myCell cellOffset];
 }
 
