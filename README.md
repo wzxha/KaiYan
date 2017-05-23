@@ -2,7 +2,7 @@
 一个视觉差效果
 
 # 效果
-![gif](https://github.com/Wzxhaha/Images/blob/master/KaiYan/kaiyan.gif)
+![gif](https://github.com/Wzxhaha/Storehouse/raw/master/KaiYan/kaiyan.gif)
 
 # 参考
 - [juvham kaiyan](https://github.com/juvham/kaiyan)
